@@ -1,1 +1,1 @@
-# images-to-go-app
+# images to my golang application
