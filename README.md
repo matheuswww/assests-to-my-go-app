@@ -1,1 +1,1 @@
-# images to my golang application
+# assets to my golang application
